@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Nata Arlantseva](https://up.htmlacademy.ru/javascript/20/user/1502087).
-* Наставник: `Неизвестно`.
+* Наставник: `Максим  Огородник`
 
 ---
 
